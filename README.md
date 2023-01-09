@@ -46,6 +46,8 @@ and can calculate risk of negative event in real-time based on context of the pl
 7. QB mobility
 8. QB decision-making
 
-Please email me at mikekubal@yahoo.com with any suggestions, feedback or errors in the code.
+This repository contains 'PPP_Analysis.ipynb' notebook (and data files) which walks through the analysis summarized above.
 
-This repository contains notebook and data files for submission to Kaggle NFL Big Data Bowl 2023 contest, https://www.kaggle.com/competitions/nfl-big-data-bowl-2023
+This repository was created for submission to Kaggle NFL Big Data Bowl 2023 contest, https://www.kaggle.com/competitions/nfl-big-data-bowl-2023
+
+Please email me at mikekubal@yahoo.com with any suggestions, feedback or errors found in the code or data.
