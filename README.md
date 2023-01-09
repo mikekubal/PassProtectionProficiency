@@ -4,7 +4,7 @@ Abstract:
 The PPP statistic might be a quarterback's and general manager's new best friend.
 
 The average NFL team pays it top 5 lineman a total of about $23 million per year
-for a 49% chance of a offensive line related negative event on a passing play (lineman beat, or quarterback hurried or hit or sacked).
+for a 49% chance of an offensive line related negative event on a passing play (lineman beat, or quarterback hurried or hit or sacked).
 
 Leveraging PPP, a team could conceivably reduce their chance of a negative event to 19% by spending an additional $4 million dollars per year.
 If a team could sign the 5 players with the higest PPP scores, their salaries would total about $27M dollars per year.
