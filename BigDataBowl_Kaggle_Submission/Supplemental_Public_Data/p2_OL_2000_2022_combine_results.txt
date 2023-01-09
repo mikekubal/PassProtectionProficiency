@@ -1,0 +1,103 @@
+Cesar Ruiz	OL	307	5.08	33	28	113	7.91	4.64
+Jon Runyan	OL	306	5.08	30.5	24	107	7.57	4.69
+John Simpson	OL	321	5.24	30	34	107	8.03	4.87
+Terence Steele	OL	312	5.03	27.5	27	106		5.08
+Logan Stenberg	OL	317	5.3	26		104	8	4.83
+Simon Stepaniak	OL	313			37			
+Alex Taylor	OL	308	5.09	25	21	116	7.77	4.79
+Andrew Thomas	OL	315	5.22	30.5	21	109	7.58	4.66
+Calvin Throckmorton	OL	317	5.57	27	23	97	8.07	4.98
+Prince Tega Wanogho	OL	308						
+Darryl Williams	OL	304	5.23	25.5	23	102	7.88	4.76
+Jedrick Wills	OL	312	5.05	34.5		113		4.84
+Isaiah Wilson	OL	350	5.32	29	26	110	8.26	5.07
+Tristan Wirfs	OL	320	4.85	36.5	24	121	7.65	4.68
+Jack Anderson	OL	314	5.28	29.5	27	105	7.9	4.83
+Calvin Ashley	OL	314	5.49	29	15	105	7	5.1
+Kayode Awosika	OL	307	5.19	30	28	100	8.15	4.91
+Josh Ball	OL	308	5.2	27.5	28	106	7.77	4.7
+Aaron Banks	OL	325	5.32	31	24	100	7.69	4.89
+Cole Banwart	OL	298	5.12	27.5	22	103	7.5	4.7
+Chase Behrndt	OL	324	5.55	24.5	25	101	8.21	4.93
+Larry Borom	OL	322	5.12	31				
+Deonte Brown	OL	344		27				
+John Brunner	OL	194		32.5	11	121	6.77	4.3
+Jake Burton	OL	303	5.49	26	22	100	8.22	4.97
+Donavaughn Campbell	OL	336	5.62	22		93	8.34	5.15
+Brady Christensen	OL			34	30	124		
+Ben Cleveland	OL	343	5.05	28	30	102		4.88
+Samuel Cosmi	OL	314	4.87	30	36	117	7.35	4.39
+Harry Crider	OL	307	5.25	27	31	102	7.63	4.68
+Jake Curhan	OL	316	5.45	24	15	102	8.07	4.84
+Wyatt Davis	OL	315			25			
+Jon Dietzen	OL	312	5.32	27	19	106	7.64	4.85
+Adrian Ealy	OL	321	5.42	24.5	18	104	8.82	4.87
+Liam Eichenberg	OL	306		26.5	33	105	7.53	4.58
+Matt Farniok	OL	311	5.2	33	28	105	7.14	4.8
+Stone Forsythe	OL	307	5.14	27.5	25	103	7.47	4.65
+Will Fries	OL	309	5.37	31	24	115	7.77	4.53
+Kendrick Green	OL	305	4.89	35.5	25	119	7.79	4.67
+Robert Hainsey	OL	306	5.2	27.5	32	104	7.58	4.63
+Noah Hannon	OL	238	5.15	29.5	15	108	7.37	4.68
+Bryce Hargrove	OL	310	5.46	27	26	97	8.06	5.03
+Darius Harper	OL	300	5.05	30.5	16	105	7.7	4.54
+Brett Heggie	OL	310	5.5	26	21	105	7.66	4.69
+Grant Hermanns	OL	300		27	29	107	7.76	4.81
+Trey Hill	OL	319	5.5					
+James Hudson	OL	313	5.27	28.5	22	98	8.05	4.79
+Creed Humphrey	OL	302	5.11	33	29	112	7.5	4.49
+Sadarius Hutcherson	OL	321	4.95		36			
+Alaric Jackson	OL	321	5.2	25		103	7.7	
+Brenden Jaimes	OL	298		30.5	25	112	7.5	4.51
+Teven Jenkins	OL	317	5.01	32.5	36	106	7.72	4.66
+Adam Jewell	OL	289	5.37	27.5		107		
+Robert Jones	OL	319	5.36					
+Ben Knutson	OL	301	5.27	24	12	99	8.01	4.85
+Tommy Kraemer	OL	309						
+Cole Van Lanen	OL	305	5.11	30	22	107	7.34	4.64
+Nolan Laufenberg	OL	312	5.34	29.5		105	7.7	4.77
+Alex Leatherwood	OL	312	4.96	34.5		118		
+Quinn Meinerz	OL	320	4.99	32		111	7.54	4.58
+Jordan Meredith	OL	302	5.11	32	25	109	7.41	4.62
+Jimmy Morrissey	OL	303	5.31	31	26	105	7.39	4.47
+Ryan Neuzil	OL	301	5.09	29	30	102	7.41	4.53
+Royce Newman	OL	310	5.14	28	23	104	7.91	4.75
+Jarrett Patterson	OL	195	4.52					
+Teton Saltes	OL	300	5.04	30.5	22	105	7.76	4.64
+Foster Sarell	OL	318	5.54	27	26	97	7.63	4.69
+Ry Schneider	OL	312	5.67	23.5	26	85	8.51	5.37
+Penei Sewell	OL	331	5.13	28	30	109	7.76	4.68
+William Sherman	OL	304	5.19	26	23	108	7.71	4.82
+Jacob Shoemaker	OL	319	5.49	24	20	93	8.2	5.02
+Rashawn Slater	OL	304	4.91	33	33	112	7.48	4.45
+D'Ante Smith	OL	305	5.29	29	24	113	7.96	4.81
+Tim Tanner-Blair	OL	288	5.59	21	32	93	8.06	4.95
+Syrus Tuitele	OL	311	5.21	26	36	94	8.25	4.89
+Alijah Vera-Tucker	OL	308	5.05	32	36	106	7.67	4.7
+Gunnar Vogel	OL	306	5.47	26	23	105	7.67	4.92
+Carson Williams	OL	254	4.79	38	18	115		
+Darnell Alford	OT	334	5.56	25	23	94	8.48	4.98
+Mark Baniewicz	OT	312	5.34	28	20	96	7.72	4.73
+Joey Chustz	OT	304	5.08	31	28	103	7.65	4.65
+Chad Clifton	OT	334	5.05	30.5	24	102	7.58	4.73
+Kurth Connell	OT	291	5.49	33	27	103	8.14	4.84
+Jonathan Gray	OT	338	5.85	23	20	94		
+Adrian Klemm	OT	307	4.98		24			
+Stockar McDougle	OT	361	5.5		24			
+Chris McIntosh	OT	315	5.39		28			
+Damion McIntosh	OT	328	5.31	26	23	97	7.72	4.71
+Kaulana Noa	OT	317	5.34	25.5	27	98	7.82	4.74
+Greg Randall	OT	333	5.59	26	22	95	8.15	5.13
+Chase Raynock	OT	308	5.5	25	22	94	8.33	5
+Tutan Reyes	OT	299	5.37	26.5	20	99	7.49	4.88
+Chris Samuels	OT	325	5.08					
+Wes Shivers	OT	318	5.65	22.5	18	98	8.48	4.81
+Marvel Smith	OT	320	5.37	27.5	24	100	7.87	4.83
+Michael Thompson	OT	305	5.28	26	16	104	7.99	4.73
+Todd Wade	OT	326	5.22	27.5	29	101	7.68	4.68
+Bobbie Williams	OT	332	5.26	29	28	97	7.78	4.72
+Jeff Backus	OT	310	5.37	27	25	99	8.27	4.67
+Chris Brown	OT	329	5.33		30			
+Leonard Davis	OT	370	5.32	28	33	97	8.72	5.18
+Ryan Diem	OT	338	5.13	34		102	7.5	4.46
+Char-Ron Dorsey	OT	348	5.99		16			

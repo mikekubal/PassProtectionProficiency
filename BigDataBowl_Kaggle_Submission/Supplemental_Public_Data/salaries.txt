@@ -1,0 +1,315 @@
+ARI
+1	D.J. Humphries	29	LT	$12,645,594	6.09%
+2	Rodney Hudson	33	C	$12,610,000	6.08%
+3	Kelvin Beachum	33	RT	$2,425,000	1.17%
+4	Cody Ford	26	G	$1,468,747	0.71%
+5	Josh Jones	25	RT	$1,319,821	0.64%
+6	Will Hernandez	27	G	$1,047,500	0.5%
+7	Sean Harlow	27	G	$965,000	0.47%
+8	Max Garcia	31	G	$895,000	0.43%
+9	Billy Price	28	G	$750,555	0.36%
+10	Lecitus Smith	24	G	$738,004	0.36%
+ATL
+1	Jake Matthews	30	LT	$15,189,200	7.3%
+2	Chris Lindstrom	25	G	$4,680,059	2.25%
+3	Kaleb McGary	27	RT	$3,266,373	1.57%
+4	Matt Hennessy	25	C	$1,293,971	0.62%
+5	Germain Ifedi	28	RT	$1,047,500	0.5%
+6	Drew Dalman	24	C	$1,019,180	0.49%
+7	Chuma Edoga	25	RT	$965,000	0.46%
+8	Colby Gossett	27	G	$965,000	0.46%
+BAL
+1	Ronnie Stanley	28	LT	$12,203,250	5.95%
+2	Kevin Zeitler	32	G	$8,975,000	4.38%
+3	Patrick Mekari	25	G	$3,100,000	1.51%
+4	Ben Powers	26	G	$2,714,383	1.32%
+5	Morgan Moses	31	RT	$2,580,000	1.26%
+6	Tyler Linderbaum	22	C	$2,406,961	1.17%
+7	Ben Cleveland	24	G	$1,095,576	0.53%
+8	Daniel Faalele	23	T	$905,085	0.44%
+9	Trystan Colon-Castillo	24	C	$895,000	0.44%
+BUF
+1	Mitch Morse	30	C	$8,000,000	3.84%
+2	Dion Dawkins	28	LT	$7,034,294	3.37%
+3	Rodger Saffold	34	G	$4,220,000	2.02%
+4	Ryan Bates	25	G	$2,375,000	1.14%
+5	David Quessenberry	32	RT	$1,750,000	0.84%
+6	Spencer Brown	24	RT	$1,098,795	0.53%
+7	Greg Van Roten	32	G	$1,047,500	0.5%
+8	Bobby Hart	28	G	$960,000	0.46%
+9	Justin Murray	29	T	$745,830	0.36%
+CAR
+1	Taylor Moton	28	RT	$7,976,250	3.76%
+2	Cameron Erving	30	LT	$6,510,000	3.06%
+3	Ikem Ekwonu	22	LT	$5,012,373	2.36%
+4	Austin Corbett	27	G	$3,188,000	1.5%
+5	Bradley Bozeman	28	C	$2,800,000	1.32%
+6	Brady Christensen	26	G	$1,173,471	0.55%
+7	Michael Jordan	24	G	$965,000	0.45%
+8	Cade Mays	23	G	$748,269	0.35%
+9	Larnel Coleman	24	T	$430,833	0.2%
+CHI
+1	Cody Whitehair	30	G	$12,300,000	5.86%
+2	Riley Reiff	34	RT	$3,000,000	1.43%
+3	Teven Jenkins	24	G	$1,906,329	0.91%
+4	Alex Leatherwood	23	RT	$1,314,162	0.63%
+5	Larry Borom	23	RT	$908,270	0.43%
+6	Sam Mustipher	26	C	$895,000	0.43%
+7	Michael Schofield	32	G	$845,274	0.4%
+8	Braxton Jones	23	LT	$779,888	0.37%
+9	Ja'Tyre Carter	23	G	$732,328	0.35%
+10	Dieter Eiselen	25	G	$430,837	0.21%
+CIN
+1	Alex Cappa	27	G	$6,750,000	3.18%
+2	Jonah Williams	25	LT	$5,609,598	2.64%
+3	Ted Karras	29	C	$5,000,000	2.36%
+4	La'el Collins	29	RT	$4,666,666	2.2%
+5	Max Scharping	26	G	$2,540,000	1.2%
+6	Jackson Carman	22	G	$1,693,170	0.8%
+7	D'ante Smith	24	G	$949,836	0.45%
+8	Hakeem Adeniji	25	LT	$947,971	0.45%
+9	Trey Hill	22	C	$873,088	0.41%
+10	Cordell Volson	24	G	$869,221	0.41%
+CLE
+1	Jack Conklin	28	RT	$11,000,000	5.05%
+2	Joel Bitonio	31	G	$6,658,824	3.06%
+3	Jedrick Wills	23	LT	$5,373,522	2.47%
+4	Wyatt Teller	28	G	$4,426,300	2.03%
+5	Chris Hubbard	31	T	$1,272,500	0.58%
+6	Ethan Pocic	27	C	$1,187,500	0.55%
+7	James Hudson	23	LT	$1,023,104	0.47%
+8	Michael Dunn	28	T	$895,000	0.41%
+9	Hjalte Froholdt	26	G	$895,000	0.41%
+10	Drew Forbes	25	G	$696,108	0.32%
+DAL
+1	Zack Martin	32	G	$12,031,000	5.46%
+2	Connor McGovern	25	G	$2,760,527	1.25%
+3	Tyler Smith	21	LT	$2,434,386	1.11%
+4	Jason Peters	40	LT	$1,826,731	0.83%
+5	Tyler Biadasz	25	C	$1,018,600	0.46%
+6	Terence Steele	25	RT	$898,334	0.41%
+7	Josh Ball	24	T	$829,836	0.38%
+DEN
+1	Graham Glasgow	30	G	$6,100,000	2.78%
+2	Dalton Risner	27	G	$3,593,597	1.64%
+3	Calvin Anderson	26	LT	$2,500,000	1.14%
+4	Billy Turner	31	RT	$2,440,000	1.11%
+5	Lloyd Cushenberry	25	C	$1,269,816	0.58%
+6	Quinn Meinerz	24	G	$1,087,694	0.5%
+7	Cameron Fleming	30	RT	$1,047,500	0.48%
+8	Luke Wattenberg	25	C	$776,930	0.35%
+DET
+1	Taylor Decker	29	LT	$14,400,000	6.61%
+2	Frank Ragnow	26	C	$7,551,529	3.47%
+3	Penei Sewell	22	RT	$5,477,061	2.52%
+4	Evan Brown	26	C	$2,013,235	0.92%
+5	Jonah Jackson	25	G	$1,308,209	0.6%
+6	Logan Stenberg	25	G	$1,080,410	0.5%
+7	Matt Nelson	27	T	$895,000	0.41%
+8	Dan Skipper	28	T	$745,830	0.34%
+9	Kayode Awosika	24	G	$665,833	0.31%
+GB
+1	David Bakhtiari	31	LT	$13,420,808	6.23%
+2	Elgton Jenkins	27	RT	$4,724,203	2.19%
+3	Josh Myers	24	C	$1,268,213	0.59%
+4	Yosh Nijman	26	T	$965,000	0.45%
+5	Royce Newman	25	G	$949,836	0.44%
+6	Jon Runyan	25	G	$938,669	0.44%
+7	Sean Rhyan	22	T	$931,428	0.43%
+8	Zach Tom	23	T	$831,085	0.39%
+9	Rasheed Walker	22	T	$725,218	0.34%
+10	Luke Tenuta	23	T	$470,004	0.22%
+HOU
+1	Laremy Tunsil	28	LT	$17,707,988	8.27%
+2	Tytus Howard	26	RT	$3,889,948	1.82%
+3	Kenyon Green	21	G	$2,900,619	1.36%
+4	A.J. Cann	31	G	$2,867,648	1.34%
+5	Justin McCray	30	G	$2,589,705	1.21%
+6	Charlie Heck	26	LT	$1,072,676	0.5%
+7	Scott Quessenberry	27	C	$1,047,500	0.49%
+8	Austin Deculus	23	T	$745,688	0.35%
+9	Jimmy Morrissey	24	C	$733,328	0.34%
+IND
+1	Braden Smith	26	RT	$11,567,000	5.43%
+2	Quenton Nelson	26	G	$10,200,000	4.79%
+3	Ryan Kelly	29	C	$9,750,000	4.58%
+4	Matt Pryor	28	G	$5,545,000	2.6%
+5	Danny Pinter	26	G	$982,175	0.46%
+6	Dennis Kelly	32	LT	$972,500	0.46%
+7	Bernhard Raimann	25	T	$963,993	0.45%
+8	Will Fries	24	G	$846,343	0.4%
+9	Wesley French	26	C	$708,333	0.33%
+JAX
+1	Brandon Scherff	31	G	$8,647,059	3.7%
+2	Cam Robinson	27	LT	$7,661,765	3.27%
+3	Jawaan Taylor	25	RT	$3,721,077	1.59%
+4	Tyler Shatley	31	G	$2,150,000	0.92%
+5	Walker Little	23	LT	$1,732,205	0.74%
+6	Luke Fortner	24	C	$1,000,012	0.43%
+7	Cole Van Lanen	24	G	$825,000	0.35%
+8	John Miller	29	G	$646,386	0.28%
+9	Blake Hance	26	T	$458,330	0.2%
+KC
+1	Orlando Brown Jr.	26	LT	$16,662,000	7.99%
+2	Joe Thuney	30	G	$8,151,250	3.91%
+3	Creed Humphrey	23	C	$1,264,820	0.61%
+4	Andrew Wylie	28	RT	$1,187,500	0.57%
+5	Geron Christian	26	T	$1,047,500	0.5%
+6	Nick Allegretti	26	G	$1,002,988	0.48%
+7	Trey Smith	23	G	$857,677	0.41%
+8	Prince Tega Wanogho	25	T	$825,000	0.4%
+9	Darian Kinnard	23	G	$794,603	0.38%
+LAC
+1	Corey Linsley	31	C	$11,600,000	5.38%
+2	Matt Feiler	30	G	$7,500,000	3.48%
+3	Zion Johnson	23	G	$2,681,214	1.24%
+4	Trey Pipkins	26	RT	$1,184,269	0.55%
+5	Will Clapp	27	C	$995,000	0.46%
+6	Storm Norton	28	RT	$895,000	0.41%
+7	Jamaree Salyer	22	LT	$748,982	0.35%
+LA
+1	Rob Havenstein	30	RT	$5,083,294	2.53%
+2	Brian Allen	27	C	$1,800,000	0.9%
+3	Bobby Evans	25	G	$1,170,545	0.58%
+4	Alaric Jackson	24	LT	$831,666	0.41%
+5	Oday Aboushi	31	G	$795,556	0.4%
+6	Matt Skura	29	C	$646,386	0.32%
+7	Ty Nsekhe	37	RT	$596,664	0.3%
+8	Chandler Brewer	25	G	$497,220	0.25%
+LV
+1	Kolton Miller	27	LT	$6,700,000	3.24%
+2	Andre James	25	C	$1,580,000	0.76%
+3	Jermaine Eluemunor	28	RT	$1,238,600	0.6%
+4	John Simpson	25	G	$1,094,195	0.53%
+5	Dylan Parham	23	G	$932,987	0.45%
+6	Lester Cotton	26	G	$895,000	0.43%
+7	Alex Bars	27	G	$804,166	0.39%
+8	Thayer Munford Jr.	23	T	$729,265	0.35%
+9	Jackson Barton	27	T	$589,722	0.28%
+MIA
+1	Connor Williams	25	C	$5,660,000	2.66%
+2	Terron Armstead	31	LT	$3,990,588	1.88%
+3	Austin Jackson	23	RT	$3,720,095	1.75%
+4	Michael Deiter	26	C	$2,786,312	1.31%
+5	Robert Hunt	26	G	$2,199,747	1.03%
+6	Greg Little	25	RT	$1,536,672	0.72%
+7	Robert Jones	23	G	$835,000	0.39%
+8	Brandon Shell	30	T	$596,664	0.28%
+MIN
+1	Brian O'Neill	27	RT	$7,819,667	3.73%
+2	Garrett Bradbury	27	C	$4,099,095	1.95%
+3	Christian Darrisaw	23	LT	$3,033,214	1.45%
+4	Chris Reed	30	G	$1,750,000	0.83%
+5	Ezra Cleveland	24	G	$1,510,148	0.72%
+6	Ed Ingram	23	G	$1,090,542	0.52%
+7	Oli Udoh	25	G	$1,006,741	0.48%
+8	Austin Schlottmann	27	G	$965,000	0.46%
+9	Blake Brandel	25	RT	$825,000	0.39%
+10	Vederian Lowe	23	T	$754,468	0.36%
+NE
+1	Isaiah Wynn	26	RT	$10,413,000	4.95%
+2	Trenton Brown	29	LT	$4,544,117	2.16%
+3	David Andrews	30	C	$4,275,000	2.03%
+4	Cole Strange	24	G	$2,228,358	1.06%
+5	Yodny Cajuste	26	LT	$1,030,545	0.49%
+6	Mike Onwenu	25	G	$945,619	0.45%
+7	James Ferentz	33	C	$895,000	0.43%
+NO
+1	Ryan Ramczyk	28	RT	$8,476,321	4.11%
+2	Andrus Peat	29	G	$7,666,000	3.72%
+3	Cesar Ruiz	23	G	$3,457,965	1.68%
+4	James Hurst	31	LT	$3,381,000	1.64%
+5	Erik McCoy	25	C	$3,222,378	1.56%
+6	Landon Young	25	RT	$867,445	0.42%
+7	Wyatt Davis	23	G	$825,000	0.4%
+8	Calvin Throckmorton	26	T	$825,000	0.4%
+9	Lewis Kidd	25	T	$706,666	0.34%
+NYG
+1	Andrew Thomas	23	LT	$8,821,524	4.27%
+2	Evan Neal	22	RT	$4,463,865	2.16%
+3	Mark Glowinski	30	G	$3,332,352	1.61%
+4	Nick Gates	27	C	$3,004,167	1.45%
+5	Jon Feliciano	30	C	$2,897,059	1.4%
+6	Joshua Ezeudu	23	G	$997,368	0.48%
+7	Tyre Phillips	25	G	$895,000	0.43%
+8	Jack Anderson	24	G	$825,000	0.4%
+9	Devery Hamilton	24	T	$711,500	0.34%
+NYJ
+1	Connor McGovern	29	C	$10,333,334	4.9%
+2	Laken Tomlinson	30	G	$5,380,000	2.55%
+3	Duane Brown	37	LT	$3,696,000	1.75%
+4	Dan Feeney	28	G	$3,000,000	1.42%
+5	Nate Herbig	24	G	$2,433,000	1.15%
+6	Cedric Ogbuehi	30	T	$933,333	0.44%
+7	Mike Remmers	33	RT	$596,664	0.28%
+PHI
+1	Lane Johnson	32	RT	$11,059,000	4.93%
+2	Jason Kelce	35	C	$8,045,000	3.59%
+3	Jordan Mailata	25	LT	$4,372,000	1.95%
+4	Isaac Seumalo	29	G	$3,976,000	1.77%
+5	Andre Dillard	27	LT	$3,936,095	1.75%
+6	Landon Dickerson	24	G	$1,967,426	0.88%
+7	Cam Jurgens	23	C	$1,255,095	0.56%
+8	Jack Driscoll	25	G	$1,018,600	0.45%
+9	Iosua Opeta	26	G	$965,000	0.43%
+10	Josh Sills	24	G	$708,333	0.32%
+PIT
+1	Chuks Okorafor	25	RT	$4,333,333	2.01%
+2	James Daniels	25	G	$4,166,666	1.94%
+3	Mason Cole	26	C	$2,556,666	1.19%
+4	Jesse Davis	31	G	$1,450,000	0.67%
+5	Kendrick Green	24	G	$1,108,129	0.51%
+6	Kevin Dotson	26	G	$1,059,704	0.49%
+7	Dan Moore	24	LT	$999,476	0.46%
+8	Trenton Scott	28	G	$895,000	0.42%
+9	J.C. Hassenauer	28	C	$895,000	0.42%
+SEA
+1	Gabe Jackson	31	G	$9,000,000	4.14%
+2	Austin Blythe	30	C	$4,000,000	1.84%
+3	Charles Cross	22	LT	$3,887,932	1.79%
+4	Phil Haynes	27	G	$2,540,000	1.17%
+5	Damien Lewis	25	G	$1,336,947	0.62%
+6	Kyle Fuller	28	C	$1,185,000	0.55%
+7	Abraham Lucas	24	RT	$980,305	0.45%
+8	Stone Forsythe	25	LT	$866,656	0.4%
+9	Jake Curhan	24	RT	$834,500	0.38%
+SF
+1	Mike McGlinchey	28	RT	$10,880,000	5.12%
+2	Trent Williams	34	LT	$9,671,765	4.55%
+3	Daniel Brunskill	28	T	$2,433,000	1.14%
+4	Aaron Banks	25	G	$1,607,636	0.76%
+5	Jaylon Moore	25	LT	$905,758	0.43%
+6	Jake Brendel	30	C	$895,000	0.42%
+7	Spencer Burford	22	G	$873,014	0.41%
+8	Nick Zakelj	23	T	$752,589	0.35%
+TB
+1	Donovan Smith	29	LT	$18,400,000	8.94%
+2	Tristan Wirfs	23	RT	$4,425,825	2.15%
+3	Shaq Mason	29	G	$3,078,345	1.5%
+4	Luke Goedeke	24	G	$1,123,452	0.55%
+5	Robert Hainsey	24	C	$1,092,357	0.53%
+6	Josh Wells	31	RT	$1,047,500	0.51%
+7	Nick Leverett	25	G	$825,000	0.4%
+8	Brandon Walton	24	T	$705,000	0.34%
+9	John Molchon	25	G	$391,670	0.19%
+TEN
+1	Ben Jones	33	C	$3,413,333	1.62%
+2	Nate Davis	26	G	$3,023,670	1.43%
+3	Dillon Radunz	24	G	$1,437,926	0.68%
+4	Nicholas Petit-Frere	23	RT	$991,953	0.47%
+5	Dennis Daley	26	LT	$965,000	0.46%
+6	Aaron Brewer	25	G	$898,334	0.43%
+7	Corey Levin	28	C	$895,000	0.42%
+8	Le'Raven Clark	29	RT	$745,830	0.35%
+9	Jordan Roos	29	G	$745,830	0.35%
+WAS
+1	Charles Leno	31	LT	$8,500,000	3.97%
+2	Trai Turner	29	G	$3,000,000	1.4%
+3	Andrew Norwell	31	G	$2,780,000	1.3%
+4	Cornelius Lucas	31	LT	$2,670,000	1.25%
+5	Samuel Cosmi	23	RT	$1,505,811	0.7%
+6	Saahdiq Charles	23	G	$1,094,843	0.51%
+7	Tyler Larsen	31	C	$955,278	0.45%
+8	Nick Martin	29	C	$795,556	0.37%
+9	Chris Paul	24	G	$731,111	0.34%
+
