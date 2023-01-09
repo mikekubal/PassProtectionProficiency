@@ -6,26 +6,27 @@ The PPP statistic might be a quarterback's and general manager's new best friend
 The average NFL team pays it top 5 lineman a total of about $23 million per year
 with a 53% chance of an offensive line related negative event on a passing play (lineman beat, or quarterback hurried or hit or sacked).
 
-Leveraging PPP, a team could conceivably reduce their chance of a negative event to 19% by spending an additional $4 million dollars per year.
-If a team could sign the 5 players with the higest PPP scores, their salaries would total about $27M dollars per year.
+Leveraging PPP, a team could conceivably reduce their chance of a negative event to 19% on every passing plaay by spending an additional $4 million dollars per year. If a team could sign the 5 players with the higest PPP scores, their salaries would total about $27M dollars per year.
 
-Surprisingly, if a team were to sign the 5 highest paid offensive lineman, their salaries would total about $74 millions dollars per year, but the chance of a negative event would still be a whopping 44% (for breakdown of above please see last cell in notebook,'Discussion of PPP Impact').
+Surprisingly, if a team were to sign the 5 highest paid offensive lineman, their salaries would total about $74 millions dollars per year, but the chance of a negative event on a passing play would still be a whopping 44% (for breakdown of above please see last cell in notebook,'cell-19, Discussion of PPP Impact').
 
 Initial exploration of player data (PPP derived from pffScouting, physical attributes, Combine, salary) showed that experience (using age as a proxy) is 
-better correlated with PPP than athleticism (see cell #33 in notebook). 
+better correlated with PPP than athleticism (see cell-15 in notebook). 
 
-The analysis suggests that NFL teams are not optimal aligning offensive line salaries with PPP (see cell #33 in notebook). 
+The analysis suggests that NFL teams are not optimal in aligning offensive line salaries with PPP (see cell-15 in notebook). 
 The mystery of how offensive lineman salaries are set is not revealed by the analysis.
 This analysis did not inlcude run blocking proficiency which could explain some of the seeming misalignment of salary with performance.
 
 Perhaps the most novel and hopefuly useful aspect of the analysis is that it provides support for my 'weak-link-in-the-chain' theory. 
 Smart defensive coordiantors have figured out that it only takes one defender in the backfield to blow-up a play.
-Fittingly they will look for the match-up against the weak link in the offesnsive line. 
-Knowing this offensive lines should attempt to balance the PPP across the line, maximizing the PPP of their weakest player, 
-and eliminating weak-links. The analysis shows offesnsive lines with this characteristic achieve a better overall team PPP (see cell #39 in notebook).
+Fittingly they will look for the match-up against the 'weak link' in the offesnsive line. 
+Knowing this, offensive lines should attempt to balance the PPP across the line, maximizing the PPP of their weakest player.
+The analysis shows offensive lines with this characteristic achieve a better overall team PPP (see cell-18 in notebook).
+Dependent on how the data is prepared the overall Team PPP is equally or more correlated with the weakest PPP (among the top 5) 
+than the strongest PPP among the top 5 highest paid.
 
 However, this may be a happy accident for some of these teams. 
-Looking at the average offensive line salary distribution across teams (see cell #25 in notebook), 
+Looking at the average offensive line salary distribution across teams (see cell-19 in notebook), 
 one might conclude that having a tackle 'super' block his defender somehow offsets the guard's poor pass blocking.
 
 Conclusion:
